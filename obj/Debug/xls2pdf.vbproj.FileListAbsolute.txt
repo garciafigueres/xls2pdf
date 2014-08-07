@@ -1,0 +1,14 @@
+C:\Users\Luis\Desktop\YorgaPDF\xls2pdf\bin\Debug\xls2pdf.exe.config
+C:\Users\Luis\Desktop\YorgaPDF\xls2pdf\bin\Debug\xls2pdf.exe
+C:\Users\Luis\Desktop\YorgaPDF\xls2pdf\bin\Debug\xls2pdf.pdb
+C:\Users\Luis\Desktop\YorgaPDF\xls2pdf\bin\Debug\xls2pdf.xml
+C:\Users\Luis\Desktop\YorgaPDF\xls2pdf\obj\Debug\xls2pdf.frmPrincipal.resources
+C:\Users\Luis\Desktop\YorgaPDF\xls2pdf\obj\Debug\xls2pdf.Resources.resources
+C:\Users\Luis\Desktop\YorgaPDF\xls2pdf\obj\Debug\xls2pdf.vbproj.GenerateResource.Cache
+C:\Users\Luis\Desktop\YorgaPDF\xls2pdf\obj\Debug\xls2pdf.exe
+C:\Users\Luis\Desktop\YorgaPDF\xls2pdf\obj\Debug\xls2pdf.xml
+C:\Users\Luis\Desktop\YorgaPDF\xls2pdf\obj\Debug\xls2pdf.pdb
+C:\Users\Luis\Desktop\YorgaPDF\xls2pdf\obj\Debug\xls2pdf.vbproj.ResolveComReference.cache
+C:\Users\Luis\Desktop\YorgaPDF\xls2pdf\bin\Debug\itextsharp.dll
+C:\Users\Luis\Desktop\YorgaPDF\xls2pdf\obj\Debug\xls2pdf.vbprojResolveAssemblyReference.cache
+C:\Users\Luis\Desktop\YorgaPDF\xls2pdf\bin\Debug\itextsharp.xml
